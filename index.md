@@ -4,3 +4,4 @@
 ##### Header 5
 
 I created different header sizes
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
